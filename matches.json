@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:20:37Z",
+ "updated": "2026-11-25T11:31:10Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -11,8 +11,8 @@
    "kickoff": "2026-11-24T04:08:17Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 0,
-   "score_b": 1,
+   "score_a": null,
+   "score_b": null,
    "winner": "imperial"
   },
   {
@@ -25,8 +25,8 @@
    "kickoff": "2026-11-24T04:04:23Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 0,
-   "score_b": 1,
+   "score_a": null,
+   "score_b": null,
    "winner": "lynn-vision"
   },
   {
@@ -39,8 +39,8 @@
    "kickoff": "2026-11-24T05:04:13Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "nip"
   },
   {
@@ -53,8 +53,8 @@
    "kickoff": "2026-11-24T05:26:47Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "100-thieves"
   },
   {
@@ -64,7 +64,7 @@
    "best_of": 1,
    "a": "parivision",
    "b": "dendele",
-   "kickoff": "2026-11-24T06:00:00Z",
+   "kickoff": "2026-11-24T06:28:17Z",
    "day": "2026-11-24",
    "status": "finished",
    "score_a": null,
@@ -81,8 +81,8 @@
    "kickoff": "2026-11-24T06:10:31Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "liquid"
   },
   {
@@ -95,8 +95,8 @@
    "kickoff": "2026-11-24T07:01:08Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 0,
-   "score_b": 1,
+   "score_a": null,
+   "score_b": null,
    "winner": "wildcard"
   },
   {
@@ -109,8 +109,8 @@
    "kickoff": "2026-11-24T07:21:59Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 0,
-   "score_b": 1,
+   "score_a": null,
+   "score_b": null,
    "winner": "flyquest"
   },
   {
@@ -123,8 +123,8 @@
    "kickoff": "2026-11-24T11:03:28Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "flyquest"
   },
   {
@@ -137,8 +137,8 @@
    "kickoff": "2026-11-24T11:53:52Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "liquid"
   },
   {
@@ -151,8 +151,8 @@
    "kickoff": "2026-11-24T09:48:50Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "imperial"
   },
   {
@@ -165,8 +165,8 @@
    "kickoff": "2026-11-24T08:49:07Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "nip"
   },
   {
@@ -176,11 +176,11 @@
    "best_of": 1,
    "a": "eternal-fire",
    "b": "dendele",
-   "kickoff": null,
+   "kickoff": "2026-11-24T10:51:07Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 13,
-   "score_b": 8,
+   "score_a": null,
+   "score_b": null,
    "winner": "eternal-fire"
   },
   {
@@ -193,8 +193,8 @@
    "kickoff": "2026-11-24T08:50:07Z",
    "day": "2026-11-24",
    "status": "finished",
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "heroic"
   },
   {
@@ -207,8 +207,8 @@
    "kickoff": "2026-11-25T06:01:46Z",
    "day": "2026-11-25",
    "status": "finished",
-   "score_a": 0,
-   "score_b": 1,
+   "score_a": null,
+   "score_b": null,
    "winner": "m80"
   },
   {
@@ -221,8 +221,8 @@
    "kickoff": "2026-11-25T06:03:07Z",
    "day": "2026-11-25",
    "status": "finished",
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "eternal-fire"
   },
   {
@@ -235,8 +235,8 @@
    "kickoff": "2026-11-25T07:03:26Z",
    "day": "2026-11-25",
    "status": "finished",
-   "score_a": 0,
-   "score_b": 1,
+   "score_a": null,
+   "score_b": null,
    "winner": "lynn-vision"
   },
   {
@@ -249,8 +249,8 @@
    "kickoff": "2026-11-25T07:12:34Z",
    "day": "2026-11-25",
    "status": "finished",
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "parivision"
   },
   {
@@ -290,8 +290,8 @@
    "kickoff": "2026-11-24T09:40:56Z",
    "day": "2026-11-24",
    "best_of": 1,
-   "score_a": 0,
-   "score_b": 1,
+   "score_a": null,
+   "score_b": null,
    "winner": "m80",
    "stage": 1,
    "round": 2,
@@ -304,12 +304,26 @@
    "kickoff": "2026-11-24T12:11:08Z",
    "day": "2026-11-24",
    "best_of": 1,
-   "score_a": 1,
-   "score_b": 0,
+   "score_a": null,
+   "score_b": null,
    "winner": "faze",
    "stage": 1,
    "round": 2,
    "id": "faze-vs-gosh"
+  },
+  {
+   "a": "9z",
+   "b": "dendele",
+   "status": "finished",
+   "kickoff": "2026-11-25T08:09:30Z",
+   "day": "2026-11-25",
+   "best_of": 3,
+   "score_a": 2,
+   "score_b": 0,
+   "winner": "9z",
+   "stage": 1,
+   "round": 3,
+   "id": "9z-vs-dendele"
   },
   {
    "a": "gosh",
