@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:21:29Z",
+ "updated": "2026-11-25T14:31:53Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -354,6 +354,86 @@
    "id": "m80-vs-eternal-fire",
    "frozen_p": 0.4484,
    "frozen_at": "2026-11-25T13:21:29Z"
+  },
+  {
+   "a": "heroic",
+   "b": "faze",
+   "status": "upcoming",
+   "kickoff": "2026-11-26T06:00:00Z",
+   "day": "2026-11-26",
+   "best_of": 3,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 1,
+   "round": 4,
+   "id": "heroic-vs-faze",
+   "frozen_p": 0.5194,
+   "frozen_at": "2026-11-25T14:31:53Z"
+  },
+  {
+   "a": "100-thieves",
+   "b": "9z",
+   "status": "upcoming",
+   "kickoff": "2026-11-26T08:30:00Z",
+   "day": "2026-11-26",
+   "best_of": 3,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 1,
+   "round": 4,
+   "id": "100-thieves-vs-9z",
+   "frozen_p": 0.5452,
+   "frozen_at": "2026-11-25T14:31:53Z"
+  },
+  {
+   "a": "lynn-vision",
+   "b": "parivision",
+   "status": "upcoming",
+   "kickoff": "2026-11-26T08:30:00Z",
+   "day": "2026-11-26",
+   "best_of": 3,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 1,
+   "round": 4,
+   "id": "lynn-vision-vs-parivision",
+   "frozen_p": 0.0656,
+   "frozen_at": "2026-11-25T14:31:53Z"
+  },
+  {
+   "a": "wildcard",
+   "b": "chinggis-warriors",
+   "status": "upcoming",
+   "kickoff": "2026-11-26T11:00:00Z",
+   "day": "2026-11-26",
+   "best_of": 3,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 1,
+   "round": 4,
+   "id": "wildcard-vs-chinggis-warriors",
+   "frozen_p": 0.7383,
+   "frozen_at": "2026-11-25T14:31:53Z"
+  },
+  {
+   "a": "imperial",
+   "b": "liquid",
+   "status": "upcoming",
+   "kickoff": "2026-11-26T11:00:00Z",
+   "day": "2026-11-26",
+   "best_of": 3,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 1,
+   "round": 4,
+   "id": "imperial-vs-liquid",
+   "frozen_p": 0.2566,
+   "frozen_at": "2026-11-25T14:31:53Z"
   }
  ]
 }
