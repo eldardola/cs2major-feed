@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:02:26Z",
+ "updated": "2026-11-25T13:21:29Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -276,10 +276,10 @@
    "b": "liquid",
    "kickoff": "2026-11-25T11:03:27Z",
    "day": "2026-11-25",
-   "status": "live",
-   "score_a": 1,
+   "status": "finished",
+   "score_a": 2,
    "score_b": 0,
-   "winner": null,
+   "winner": "nip",
    "frozen_p": 0.5772,
    "frozen_at": "2026-11-25T08:35:00Z"
   },
@@ -328,16 +328,32 @@
   {
    "a": "gosh",
    "b": "chinggis-warriors",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-25T10:06:40Z",
    "day": "2026-11-25",
    "best_of": 3,
    "score_a": 1,
-   "score_b": 1,
-   "winner": null,
+   "score_b": 2,
+   "winner": "chinggis-warriors",
    "stage": 1,
    "round": 3,
    "id": "gosh-vs-chinggis-warriors"
+  },
+  {
+   "a": "m80",
+   "b": "eternal-fire",
+   "status": "upcoming",
+   "kickoff": "2026-11-26T06:00:00Z",
+   "day": "2026-11-26",
+   "best_of": 3,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 1,
+   "round": 4,
+   "id": "m80-vs-eternal-fire",
+   "frozen_p": 0.4484,
+   "frozen_at": "2026-11-25T13:21:29Z"
   }
  ]
 }
