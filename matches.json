@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:02:04Z",
+ "updated": "2026-11-26T11:24:26Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -422,12 +422,12 @@
   {
    "a": "imperial",
    "b": "liquid",
-   "status": "upcoming",
-   "kickoff": "2026-11-26T11:20:00Z",
+   "status": "live",
+   "kickoff": "2026-11-26T11:20:31Z",
    "day": "2026-11-26",
    "best_of": 3,
-   "score_a": null,
-   "score_b": null,
+   "score_a": 0,
+   "score_b": 0,
    "winner": null,
    "stage": 1,
    "round": 4,
