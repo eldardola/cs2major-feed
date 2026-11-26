@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:24:26Z",
+ "updated": "2026-11-26T12:07:33Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -374,13 +374,13 @@
   {
    "a": "100-thieves",
    "b": "9z",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-26T09:05:45Z",
    "day": "2026-11-26",
    "best_of": 3,
-   "score_a": 1,
+   "score_a": 2,
    "score_b": 1,
-   "winner": null,
+   "winner": "100-thieves",
    "stage": 1,
    "round": 4,
    "id": "100-thieves-vs-9z",
@@ -407,7 +407,7 @@
    "a": "wildcard",
    "b": "chinggis-warriors",
    "status": "upcoming",
-   "kickoff": "2026-11-26T12:00:00Z",
+   "kickoff": "2026-11-26T12:10:00Z",
    "day": "2026-11-26",
    "best_of": 3,
    "score_a": null,
@@ -427,7 +427,7 @@
    "day": "2026-11-26",
    "best_of": 3,
    "score_a": 0,
-   "score_b": 0,
+   "score_b": 1,
    "winner": null,
    "stage": 1,
    "round": 4,
