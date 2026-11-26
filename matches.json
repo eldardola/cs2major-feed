@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:23:32Z",
+ "updated": "2026-11-26T10:29:20Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -379,7 +379,7 @@
    "day": "2026-11-26",
    "best_of": 3,
    "score_a": 0,
-   "score_b": 0,
+   "score_b": 1,
    "winner": null,
    "stage": 1,
    "round": 4,
@@ -395,7 +395,7 @@
    "day": "2026-11-26",
    "best_of": 3,
    "score_a": 0,
-   "score_b": 0,
+   "score_b": 1,
    "winner": null,
    "stage": 1,
    "round": 4,
