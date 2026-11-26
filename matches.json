@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:43:57Z",
+ "updated": "2026-11-26T15:41:17Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -406,13 +406,13 @@
   {
    "a": "wildcard",
    "b": "chinggis-warriors",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-26T12:11:12Z",
    "day": "2026-11-26",
    "best_of": 3,
-   "score_a": 1,
+   "score_a": 2,
    "score_b": 1,
-   "winner": null,
+   "winner": "wildcard",
    "stage": 1,
    "round": 4,
    "id": "wildcard-vs-chinggis-warriors",
@@ -434,6 +434,54 @@
    "id": "imperial-vs-liquid",
    "frozen_p": 0.2566,
    "frozen_at": "2026-11-25T14:31:53Z"
+  },
+  {
+   "a": "lynn-vision",
+   "b": "heroic",
+   "status": "upcoming",
+   "kickoff": "2026-11-27T06:00:00Z",
+   "day": "2026-11-27",
+   "best_of": 3,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 1,
+   "round": 5,
+   "id": "lynn-vision-vs-heroic",
+   "frozen_p": 0.0731,
+   "frozen_at": "2026-11-26T15:41:17Z"
+  },
+  {
+   "a": "imperial",
+   "b": "wildcard",
+   "status": "upcoming",
+   "kickoff": "2026-11-27T08:30:00Z",
+   "day": "2026-11-27",
+   "best_of": 3,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 1,
+   "round": 5,
+   "id": "imperial-vs-wildcard",
+   "frozen_p": 0.5323,
+   "frozen_at": "2026-11-26T15:41:17Z"
+  },
+  {
+   "a": "m80",
+   "b": "100-thieves",
+   "status": "upcoming",
+   "kickoff": "2026-11-27T11:00:00Z",
+   "day": "2026-11-27",
+   "best_of": 3,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 1,
+   "round": 5,
+   "id": "m80-vs-100-thieves",
+   "frozen_p": 0.4526,
+   "frozen_at": "2026-11-26T15:41:17Z"
   }
  ]
 }
