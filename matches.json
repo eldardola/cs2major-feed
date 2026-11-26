@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:31:53Z",
+ "updated": "2026-11-26T06:42:06Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -342,12 +342,12 @@
   {
    "a": "m80",
    "b": "eternal-fire",
-   "status": "upcoming",
-   "kickoff": "2026-11-26T06:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-26T06:02:02Z",
    "day": "2026-11-26",
    "best_of": 3,
-   "score_a": null,
-   "score_b": null,
+   "score_a": 0,
+   "score_b": 0,
    "winner": null,
    "stage": 1,
    "round": 4,
@@ -358,12 +358,12 @@
   {
    "a": "heroic",
    "b": "faze",
-   "status": "upcoming",
-   "kickoff": "2026-11-26T06:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-26T06:01:52Z",
    "day": "2026-11-26",
    "best_of": 3,
-   "score_a": null,
-   "score_b": null,
+   "score_a": 1,
+   "score_b": 0,
    "winner": null,
    "stage": 1,
    "round": 4,
