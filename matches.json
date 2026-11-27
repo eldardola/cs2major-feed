@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:12:01Z",
+ "updated": "2026-11-27T10:19:47Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -458,7 +458,7 @@
    "kickoff": "2026-11-27T08:29:07Z",
    "day": "2026-11-27",
    "best_of": 3,
-   "score_a": 0,
+   "score_a": 1,
    "score_b": 0,
    "winner": null,
    "stage": 1,
@@ -482,6 +482,38 @@
    "id": "m80-vs-100-thieves",
    "frozen_p": 0.4526,
    "frozen_at": "2026-11-26T15:41:17Z"
+  },
+  {
+   "a": "g2",
+   "b": "liquid",
+   "status": "upcoming",
+   "kickoff": "2026-11-28T05:00:00Z",
+   "day": "2026-11-28",
+   "best_of": 1,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 2,
+   "round": 1,
+   "id": "g2-vs-liquid",
+   "frozen_p": 0.624,
+   "frozen_at": "2026-11-27T10:19:47Z"
+  },
+  {
+   "a": "navi",
+   "b": "parivision",
+   "status": "upcoming",
+   "kickoff": "2026-11-28T06:00:00Z",
+   "day": "2026-11-28",
+   "best_of": 1,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 2,
+   "round": 1,
+   "id": "navi-vs-parivision",
+   "frozen_p": 0.5416,
+   "frozen_at": "2026-11-27T10:19:47Z"
   }
  ]
 }
