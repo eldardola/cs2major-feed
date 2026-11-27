@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:59:09Z",
+ "updated": "2026-11-27T12:09:18Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -454,13 +454,13 @@
   {
    "a": "imperial",
    "b": "wildcard",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-27T08:29:07Z",
    "day": "2026-11-27",
    "best_of": 3,
-   "score_a": 1,
+   "score_a": 2,
    "score_b": 1,
-   "winner": null,
+   "winner": "imperial",
    "stage": 1,
    "round": 5,
    "id": "imperial-vs-wildcard",
@@ -470,12 +470,12 @@
   {
    "a": "m80",
    "b": "100-thieves",
-   "status": "upcoming",
-   "kickoff": "2026-11-27T12:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-27T12:08:22Z",
    "day": "2026-11-27",
    "best_of": 3,
-   "score_a": null,
-   "score_b": null,
+   "score_a": 0,
+   "score_b": 0,
    "winner": null,
    "stage": 1,
    "round": 5,
@@ -514,6 +514,38 @@
    "id": "navi-vs-parivision",
    "frozen_p": 0.5416,
    "frozen_at": "2026-11-27T10:19:47Z"
+  },
+  {
+   "a": "fut",
+   "b": "flyquest",
+   "status": "upcoming",
+   "kickoff": "2026-11-28T04:00:00Z",
+   "day": "2026-11-28",
+   "best_of": 1,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 2,
+   "round": 1,
+   "id": "fut-vs-flyquest",
+   "frozen_p": 0.9105,
+   "frozen_at": "2026-11-27T12:09:18Z"
+  },
+  {
+   "a": "nemiga",
+   "b": "nip",
+   "status": "upcoming",
+   "kickoff": "2026-11-28T04:00:00Z",
+   "day": "2026-11-28",
+   "best_of": 1,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 2,
+   "round": 1,
+   "id": "nemiga-vs-nip",
+   "frozen_p": 0.6213,
+   "frozen_at": "2026-11-27T12:09:18Z"
   }
  ]
 }
