@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:15:39Z",
+ "updated": "2026-11-27T15:27:51Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -470,13 +470,13 @@
   {
    "a": "m80",
    "b": "100-thieves",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-27T12:08:22Z",
    "day": "2026-11-27",
    "best_of": 3,
    "score_a": 1,
-   "score_b": 1,
-   "winner": null,
+   "score_b": 2,
+   "winner": "100-thieves",
    "stage": 1,
    "round": 5,
    "id": "m80-vs-100-thieves",
@@ -562,6 +562,38 @@
    "id": "astralis-vs-imperial",
    "frozen_p": 0.7222,
    "frozen_at": "2026-11-27T12:14:36Z"
+  },
+  {
+   "a": "mongolz",
+   "b": "lynn-vision",
+   "status": "upcoming",
+   "kickoff": "2026-11-28T07:00:00Z",
+   "day": "2026-11-28",
+   "best_of": 1,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 2,
+   "round": 1,
+   "id": "mongolz-vs-lynn-vision",
+   "frozen_p": 0.8392,
+   "frozen_at": "2026-11-27T15:27:51Z"
+  },
+  {
+   "a": "mibr",
+   "b": "100-thieves",
+   "status": "upcoming",
+   "kickoff": "2026-11-28T07:00:00Z",
+   "day": "2026-11-28",
+   "best_of": 1,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 2,
+   "round": 1,
+   "id": "mibr-vs-100-thieves",
+   "frozen_p": 0.5502,
+   "frozen_at": "2026-11-27T15:27:51Z"
   }
  ]
 }
