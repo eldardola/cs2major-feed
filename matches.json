@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:41:17Z",
+ "updated": "2026-11-27T06:43:31Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -438,12 +438,12 @@
   {
    "a": "lynn-vision",
    "b": "heroic",
-   "status": "upcoming",
-   "kickoff": "2026-11-27T06:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-27T06:02:18Z",
    "day": "2026-11-27",
    "best_of": 3,
-   "score_a": null,
-   "score_b": null,
+   "score_a": 0,
+   "score_b": 0,
    "winner": null,
    "stage": 1,
    "round": 5,
