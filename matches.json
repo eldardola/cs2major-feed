@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:09:18Z",
+ "updated": "2026-11-27T12:14:36Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -546,6 +546,22 @@
    "id": "nemiga-vs-nip",
    "frozen_p": 0.6213,
    "frozen_at": "2026-11-27T12:09:18Z"
+  },
+  {
+   "a": "astralis",
+   "b": "imperial",
+   "status": "upcoming",
+   "kickoff": "2026-11-28T06:00:00Z",
+   "day": "2026-11-28",
+   "best_of": 1,
+   "score_a": null,
+   "score_b": null,
+   "winner": null,
+   "stage": 2,
+   "round": 1,
+   "id": "astralis-vs-imperial",
+   "frozen_p": 0.7222,
+   "frozen_at": "2026-11-27T12:14:36Z"
   }
  ]
 }
