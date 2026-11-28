@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:36:08Z",
+ "updated": "2026-11-28T07:50:54Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -486,13 +486,13 @@
   {
    "a": "g2",
    "b": "liquid",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-28T06:17:11Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
    "score_b": null,
-   "winner": null,
+   "winner": "g2",
    "stage": 2,
    "round": 1,
    "id": "g2-vs-liquid",
@@ -502,8 +502,8 @@
   {
    "a": "navi",
    "b": "parivision",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T07:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T07:22:21Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
@@ -582,8 +582,8 @@
   {
    "a": "mibr",
    "b": "100-thieves",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T07:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T07:28:34Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
