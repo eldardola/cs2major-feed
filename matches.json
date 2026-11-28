@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T09:09:35Z",
+ "updated": "2026-11-28T09:30:11Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -598,8 +598,8 @@
   {
    "a": "nemiga",
    "b": "lynn-vision",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T09:30:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T09:25:45Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
@@ -614,8 +614,8 @@
   {
    "a": "g2",
    "b": "nip",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T09:20:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T09:26:17Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
