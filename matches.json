@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T04:44:21Z",
+ "updated": "2026-11-28T05:39:39Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -518,13 +518,13 @@
   {
    "a": "fut",
    "b": "flyquest",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-28T04:01:10Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
    "score_b": null,
-   "winner": null,
+   "winner": "fut",
    "stage": 2,
    "round": 1,
    "id": "fut-vs-flyquest",
@@ -534,8 +534,8 @@
   {
    "a": "nemiga",
    "b": "nip",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T05:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T05:13:17Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
@@ -550,8 +550,8 @@
   {
    "a": "astralis",
    "b": "imperial",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T05:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T05:09:16Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
@@ -566,13 +566,13 @@
   {
    "a": "mongolz",
    "b": "lynn-vision",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-28T04:02:04Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
    "score_b": null,
-   "winner": null,
+   "winner": "mongolz",
    "stage": 2,
    "round": 1,
    "id": "mongolz-vs-lynn-vision",
