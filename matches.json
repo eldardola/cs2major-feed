@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T09:30:11Z",
+ "updated": "2026-11-28T10:21:47Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -598,13 +598,13 @@
   {
    "a": "nemiga",
    "b": "lynn-vision",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-28T09:25:45Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
    "score_b": null,
-   "winner": null,
+   "winner": "nemiga",
    "stage": 2,
    "round": 2,
    "id": "nemiga-vs-lynn-vision",
@@ -614,13 +614,13 @@
   {
    "a": "g2",
    "b": "nip",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-28T09:26:17Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
    "score_b": null,
-   "winner": null,
+   "winner": "g2",
    "stage": 2,
    "round": 2,
    "id": "g2-vs-nip",
@@ -630,8 +630,8 @@
   {
    "a": "liquid",
    "b": "eternal-fire",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T10:30:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T10:18:28Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
