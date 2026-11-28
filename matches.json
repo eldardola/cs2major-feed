@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T12:03:23Z",
+ "updated": "2026-11-28T12:22:21Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -679,7 +679,7 @@
    "a": "flyquest",
    "b": "parivision",
    "status": "upcoming",
-   "kickoff": "2026-11-28T12:30:00Z",
+   "kickoff": "2026-11-28T13:00:00Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
