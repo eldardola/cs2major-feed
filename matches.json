@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:39:39Z",
+ "updated": "2026-11-28T06:36:08Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -486,8 +486,8 @@
   {
    "a": "g2",
    "b": "liquid",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T06:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T06:17:11Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
@@ -534,13 +534,13 @@
   {
    "a": "nemiga",
    "b": "nip",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-28T05:13:17Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
    "score_b": null,
-   "winner": null,
+   "winner": "nip",
    "stage": 2,
    "round": 1,
    "id": "nemiga-vs-nip",
@@ -550,13 +550,13 @@
   {
    "a": "astralis",
    "b": "imperial",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-28T05:09:16Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
    "score_b": null,
-   "winner": null,
+   "winner": "astralis",
    "stage": 2,
    "round": 1,
    "id": "astralis-vs-imperial",
