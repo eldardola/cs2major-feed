@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:21:47Z",
+ "updated": "2026-11-28T11:55:55Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -630,13 +630,13 @@
   {
    "a": "liquid",
    "b": "eternal-fire",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-28T10:18:28Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
    "score_b": null,
-   "winner": null,
+   "winner": "liquid",
    "stage": 2,
    "round": 2,
    "id": "liquid-vs-eternal-fire",
@@ -647,7 +647,7 @@
    "a": "mibr",
    "b": "imperial",
    "status": "upcoming",
-   "kickoff": "2026-11-28T11:30:00Z",
+   "kickoff": "2026-11-28T12:00:00Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
@@ -662,8 +662,8 @@
   {
    "a": "fut",
    "b": "100-thieves",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T11:30:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T11:41:40Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
