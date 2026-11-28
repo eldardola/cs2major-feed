@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:20:11Z",
+ "updated": "2026-11-28T13:43:16Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -678,8 +678,8 @@
   {
    "a": "flyquest",
    "b": "parivision",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T13:30:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T13:31:27Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
@@ -694,13 +694,13 @@
   {
    "a": "navi",
    "b": "astralis",
-   "status": "live",
+   "status": "finished",
    "kickoff": "2026-11-28T12:44:56Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
    "score_b": null,
-   "winner": null,
+   "winner": "astralis",
    "stage": 2,
    "round": 2,
    "id": "navi-vs-astralis",
