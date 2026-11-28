@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:32:07Z",
+ "updated": "2026-11-28T04:44:21Z",
  "matches": [
   {
    "id": "heroic-vs-imperial",
@@ -518,8 +518,8 @@
   {
    "a": "fut",
    "b": "flyquest",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T04:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T04:01:10Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
@@ -566,8 +566,8 @@
   {
    "a": "mongolz",
    "b": "lynn-vision",
-   "status": "upcoming",
-   "kickoff": "2026-11-28T04:00:00Z",
+   "status": "live",
+   "kickoff": "2026-11-28T04:02:04Z",
    "day": "2026-11-28",
    "best_of": 1,
    "score_a": null,
